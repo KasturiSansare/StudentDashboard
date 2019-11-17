@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student Dashboard</string>
+
+    <string-array name="branch">
+
+        <item>Computer</item>
+        <item>ENTC</item>
+        <item>Instrumentation</item>
+        <item>IT</item>
+        <item>Mechanical</item>
+
+    </string-array>
+</resources>
